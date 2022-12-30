@@ -1,0 +1,5 @@
+Record ID,Record Name,Error Type,Error Code,Error Message,Source Application,Target Application
+1001,Sample Record 1,Business Error,400,Missing field - Address,Salesforce,WooCommerce
+1010,Sample Record 2,Business Error,400,Missing field - Phone,Salesforce,WooCommerce
+1105,Sample Record 3,Business Error,400,Missing field - Phone,Salesforce,WooCommerce
+2108,Sample Record 4,Business Error,400,Missing field - Phone,Salesforce,WooCommerce
