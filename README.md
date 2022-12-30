@@ -38,4 +38,4 @@ Overall Boomi process is as below.
 
 ## Note
 
-If the intended email recipient(s) use **Gmail**, then use **inline style tags** because Gmail strips **CSS/style** from **head** tag.
+If the intended email recipient(s) use **Gmail**, then use **inline style tags** because Gmail strips **CSS/style** from **head** tag (refer Boomi_Table_Rows_Inline.html and Boomi_Table_Inline_Style.html).
